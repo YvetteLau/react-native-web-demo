@@ -1,0 +1,13 @@
+# install modules
+node_modules
+typings
+
+# mac
+.DS_Store
+
+# ide
+.vs_code
+.idea
+
+# build
+outputBundle
